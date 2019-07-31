@@ -1,6 +1,6 @@
 {
   "name": "@rafaelcmm/react-custom-hooks",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Custom hooks for react apps",
   "main": "build/index.min.js",
   "unpkg": "build/index.min.js",
