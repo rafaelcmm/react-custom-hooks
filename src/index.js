@@ -1,2 +1,7 @@
-export useDebounce from './useDebouce';
-export useInterval from './useInterval';
+import useDebounce from './useDebounce';
+import useInterval from './useInterval';
+
+export default {
+  useDebounce,
+  useInterval
+}
